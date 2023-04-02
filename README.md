@@ -114,41 +114,41 @@ Years ago, when car navigators became a thing, I had a good friend I'd call and 
 
 ## The Actual Dialog With ChatGPT in Pictures
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/2.png)
+![](2.png)
 
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/3.png)
+![](3.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/4.png)
+![](4.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/5.png)
+![](5.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/6.png)
+![](6.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/7.png)
+![](7.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/8.png)
+![](8.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/9.png)
+![](9.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/10.png)
+![](10.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/11.png)
+![](11.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/12.png)
+![](12.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/13.png)
+![](13.png)
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/14.png)
+![](14.png)
 
 I decided to see what I'd generated so copied it into a React project and viewed the results.
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/15.png)
+![](15.png)
 
 More refinement
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/16.png)
+![](16.png)
 
 And again, the final product.
 
-![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/17.png)
+![](17.png)
