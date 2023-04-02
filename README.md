@@ -1,4 +1,6 @@
-# Introduction
+# Building a Bootstrap 5 Legend with the Help of
+
+## Introduction
 
 Lately, my mind has been 100% expanded by what ChatGPT can do to help me with my programming tasks. Especially tasks where I don't consider my an expert and I need some help. This morning, as I'm working on the demo for an upcoming course I'm working on titled "Server Component Fundamentals in React 18" for Pluralsight, I decided I needed a legend. Normally I don't do a wireframe for something so simple, but since I know you are not in my head, this is what I was thinking.
 
@@ -80,37 +82,37 @@ export default function App() {
 
 ```
 
-# The ChatGPT Conversation
+## The ChatGPT Conversation
 
 So, what questions did I ask ChatGPT to get this?  Below are the questions I asked but without the intervening answers from ChatGPT that led me to ask each question in order.  Further down in this article you can look at the full conversation from my web session.
 
-## Create a legend in bootstrap 5 that includes checkboxes for two items, each indifferent colors
+### Create a legend in bootstrap 5 that includes checkboxes for two items, each indifferent colors
 
-## Put the handlers inline
+### Put the handlers inline
 
-## Put a nice border around the legend
+### Put a nice border around the legend
 
-## Change the names of the variables for the checkboxes to showRsc and showRcc
+### Change the names of the variables for the checkboxes to showRsc and showRcc
 
-## Make this with typescript
+### Make this with typescript
 
-## Update usestate for typescript also
+### Update usestate for typescript also
 
-## Add a title to the legend saying "Display Options for Server and Client Components"
+### Add a title to the legend saying "Display Options for Server and Client Components"
 
-## Add some padding around the legend as well as the contents and make the background gray
+### Add some padding around the legend as well as the contents and make the background gray
 
-## Rename variables rsc and rcc to React Server Components and React Client Components
+### Rename variables rsc and rcc to React Server Components and React Client Components
 
 Just 2 minutes of Q&A
 
-# Conclusions
+## Conclusions
 
 ChatGPT and AI tools like this will change my programming forever. I doubt I'll use Google search nearly as much, I won't look on StackOverflow for answers as often, and in general, it will make me a better programmer.
 
 Years ago, when car navigators became a thing, I had a good friend I'd call and ask for help when I'd get lost driving around. She's always help me, as she seem to know every street in my city.  After a while I stopped calling her and she asked me one day why. I said that I'd replaced her with a Garmin navigation device that helped me get places, and when I made mistakes, it corrected them with no judgement (and yes, she's still my friend).
 
-# The Actual Dialog With ChatGPT in Pictures
+## The Actual Dialog With ChatGPT in Pictures
 
 ![](../assets/posts/2023-04-02-building-a-bootstrap-5-legend-with-chatgpt-help/2.png)
 
